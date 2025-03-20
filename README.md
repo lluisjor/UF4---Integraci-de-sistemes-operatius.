@@ -23,3 +23,13 @@ Crea alguns fitxers a la carpeta.
 Programa una còpia de seguretat diaria al servidor Linux de la carpeta general.
 
 ![image](https://github.com/user-attachments/assets/a8114516-d776-4ee6-bdf5-75a3161669c9)
+
+Fes canvias a la carpeta general des del client Windows.
+
+![image](https://github.com/user-attachments/assets/07d70c6e-02ac-4e2a-9bb8-0070db10a214)
+
+Recupera la còpia de seguretat des de Linux i deixa la carpeta com estava.
+
+![image](https://github.com/user-attachments/assets/b5867f52-5a55-439e-bae2-326ee1e39246)
+
+

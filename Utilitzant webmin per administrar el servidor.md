@@ -1,18 +1,70 @@
-1.- Crear i modificar usuaris
+# Administració de servidors amb Webmin
+![image](https://github.com/user-attachments/assets/afe29797-c334-45ed-ac85-ff6d2ede782b)
+
+## 👤 Nom de l’alumne: Pit i Marc
+
+# 📑 Índex
+
+Creació i modificació d’usuaris
+
+Programació de tasques
+
+Instal·lació de software
+
+Serveis
+
+Quotes de disc
+
+Còpies de seguretat
+
+Compartició amb Samba
+
+
+
+## EJERCICIOS
+
+
+## 1.- Crear i modificar usuaris
 Fer tot des de webmin
 
 Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
+
+
 Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
+
+![image](https://github.com/user-attachments/assets/107b4b09-f485-4099-8802-63da92b611f8)
+
 Cada usuari tindrà un directori a home igual al seu nom d'usuari.
 Utilitzaran bash com a shell.
 Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
+
+![image](https://github.com/user-attachments/assets/cca675c5-f593-4b20-b7d8-8e1da09bee01)
+
 L'usuari techno no podrà fer login després del dia 31-03-2025.
+
+![image](https://github.com/user-attachments/assets/d4449a95-2594-46fc-a4a2-7ef0641c412c)
+
 Comproveu que els usuaris poden iniciar sessió.
 Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
-2.- Programar tasques
+
+![image](https://github.com/user-attachments/assets/c59d4ecb-6d86-4be8-abf1-afedd144f72b)
+
+
+### 2.- Programar tasques
+
 Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
+
+![image](https://github.com/user-attachments/assets/b814bce8-6dcd-4452-ba59-2f28109075b2)
+
+
 Programa una tasca diaria que apaga l'ordinador a les 14:00.
+
+![image](https://github.com/user-attachments/assets/2cbc788d-f060-4937-b111-a61d274b66d1)
+
+
 Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
+
+
 3.- Instal·lació de software
 Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
 Des de webmin actualitza un paquet.

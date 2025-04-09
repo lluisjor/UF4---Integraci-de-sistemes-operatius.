@@ -1,3 +1,10 @@
+Actividad 2 - Compartir una impresora de Windows a Linux
+
+Su oficina dispone de una impresora centralizada que está conectada a un equipo con Windows 10. El resto de ordenadores de la oficina utilizan Linux. Has de fer que todos los usuarios puguin utilicen la impresora. La xarxa de l'oficina fa servir aquestes adreces IP. On X es el número asignado al grupo.
+
+![324541597-1dd6f371-1038-4f82-82cc-35fe39793671](https://github.com/user-attachments/assets/082c22f0-a80b-4bed-9b15-3a87bcb35849)
+
+
 Descargamos en programa PDFCreator para la tener una la impresora 
 ![image](https://github.com/user-attachments/assets/a5e08a99-c006-4064-84bb-27f112724d6f)
 
@@ -10,9 +17,10 @@ Ahora buscamos dispositius i impressores
 ![image](https://github.com/user-attachments/assets/8a67b088-939a-4dc7-b915-cb6108a89dc3)
 
 Cuando entramos ahi nos salen los dispositivo y las impresoras y ahi nos saldra la que hemos instalado  PDFCreator todo esto demomento en win10
+
 ![image](https://github.com/user-attachments/assets/0017cb05-6dcf-4b1d-add0-46912bd85ffe)
 
-AHORA VAMOS A UBUNTU 
+Ahora vamos a Ubuntu
 
 Ponemos esta comanda que para poner una impresora
 ![image](https://github.com/user-attachments/assets/f86e70b6-ba49-4068-b505-2930aa66b09f)

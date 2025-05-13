@@ -21,3 +21,6 @@ Accediu a la carpeta creada des del client Windows connectant-la a la unitat Z
 
 Activitat 4
 Canvia la contrasenya per part d'un client 
+
+
+![image](https://github.com/user-attachments/assets/35c045fb-0ae1-4b50-9db8-3a0b49e748df)
